@@ -31,6 +31,6 @@ I am a final-year Ph.D. candidate at **KU Leuven**, working in the **Neuromorphi
 My research focuses on leveraging principles of neural computation (spiking/bursting dynamics) for control applications, ranging from design and analysis of Central Pattern Generator (CPG) networks to energy-based modelling of neuronal excitability. Previously, I completed my Bachelor's in Electrical Engineering and Master's in Mathematical Engineering at KU Leuven.
 
 ### Research Highlights
-* **Design of Pattern Generating Networks Using Excitable Neurons:** Proposing a shift from coupled-oscillator networks to excitable networks based on event-propagation to achieve a robust framework for distributed design & analysis of CPGs.
-* **Regulating Rhythmic Interaction:** Controlling the behaviour of the event-based interconnection of a rhythmic plant and a neuromorphic controller.
-* **Energy-based Modeling of Excitability for Domain-agnostic Neuronal Behaviours:** Energy-based characterisation (Bond graph, Port-Hamiltonian) of excitable neurons to enable energetically consistent realisation of excitable networks across physical domains (e.g., fluidic CPGs).
+- **Design of Pattern Generating Networks Using Excitable Neurons:** Proposing a shift from coupled-oscillator networks to excitable networks based on event-propagation to achieve a robust framework for distributed design & analysis of CPGs.
+- **Regulating Rhythmic Interaction:** Controlling the behaviour of the event-based interconnection of a rhythmic plant and a neuromorphic controller.
+- **Energy-based Modeling of Excitability for Domain-agnostic Neuronal Behaviours:** Energy-based characterisation (Bond graph, Port-Hamiltonian) of excitable neurons to enable energetically consistent realisation of excitable networks across physical domains (e.g., fluidic CPGs).
